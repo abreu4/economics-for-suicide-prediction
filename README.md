@@ -30,7 +30,7 @@ Based on the following papers
 ## Current todos
 
 - Finish refurbishing sklearn preprocessing pipeline
-- Grid search train a linear regressor vs linear SVR
+- Grid search train linear model
 
 ## Possible improvements
 
