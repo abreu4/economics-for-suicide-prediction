@@ -25,15 +25,13 @@ Four indicators were chosen:
 These are known indicators of mental health and suicide numbers, as shown [here](https://bmjopen.bmj.com/content/2/3/e000785), [here](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0213-61632014000100004) and [here](https://pubmed.ncbi.nlm.nih.gov/20652218/)
 
 
-Based on the following papers
-
 ## Current todos
 
 - Finish refurbishing sklearn preprocessing pipeline
 - Grid search train linear model
 
+
 ## Possible improvements
 
 - EDI includes many other economic development indicators, such as debt as percentage of GDP. With the right data treatment techniques, these too could be used for predictions.
 - Missing values could be imput by regressing indicator values along time axis for each country, since numbers seem to linearly increase over time for most indicators.
--
