@@ -15,7 +15,7 @@ Datasets should be placed in `data/` and are preprocessed in the form of:
 
 ## Theoretical background
 
-Three indicators were chosen:
+Four indicators were chosen:
 
 1. Adjusted GDP per capita
 2. Consumer price index
