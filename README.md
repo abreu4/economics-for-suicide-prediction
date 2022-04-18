@@ -1,6 +1,6 @@
 # Predicting suicides from economic development indicators
 
-This project aims at predicting suicide numbers from economic development indicators.
+This project aims at predicting suicide numbers of a given country in a given year from its economic development indicators.
 
 ## Dataset
 
